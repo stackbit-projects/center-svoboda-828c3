@@ -32,6 +32,7 @@ header:
       new_window: false
       no_follow: false
       type: action
+      url: /programm
   has_secondary_nav: true
   secondary_nav_links:
     - label: Контакты
