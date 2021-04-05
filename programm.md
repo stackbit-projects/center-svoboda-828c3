@@ -6,7 +6,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
-title: Ghjuhfvvs h
 ---
 ## Lorem ipsum
 
