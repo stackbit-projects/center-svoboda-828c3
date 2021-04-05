@@ -10,7 +10,9 @@ title: Программы работы с зависимыми
 ---
 ## Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Здесь было бы неплохо перечислить те программы которые у вас есть. 
+Например:
 
-- Lorem ipsum
-- dolor sit amet
+*   Работа с наркозависимыми
+*   Работа с алкозависимыми
+*   Работа с созависимыми
