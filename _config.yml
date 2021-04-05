@@ -20,6 +20,7 @@ header:
       style: link
     - url: /blog
       style: link
+      label: Программы
     - label: Style Guide
       url: /style-guide
       style: link
