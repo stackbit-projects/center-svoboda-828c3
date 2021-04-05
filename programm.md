@@ -6,7 +6,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
-title: Программы работы с наркозависимыми
+title: Программы работы с зависимыми
 ---
 ## Lorem ipsum
 
