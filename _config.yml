@@ -21,7 +21,7 @@ header:
     - url: /programm
       style: link
       label: Программы
-    - url: /ку
+    - url: /
       style: link
       label: Отзывы
     - label: Программы
