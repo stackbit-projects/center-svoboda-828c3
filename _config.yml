@@ -23,6 +23,7 @@ header:
       label: Программы
     - url: /style-guide
       style: link
+      label: Отзывы
     - label: Программы
       style: link
       has_icon: false
