@@ -18,8 +18,7 @@ header:
     - label: О нас
       url: /about
       style: link
-    - label: Blog
-      url: /blog
+    - url: /blog
       style: link
     - label: Style Guide
       url: /style-guide
