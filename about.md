@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: О нас
-    subtitle: About Page Demo
+    subtitle: Наш центр имеет отделения в нескольких городах
     align: center
     background_color: secondary
   - type: features_section
