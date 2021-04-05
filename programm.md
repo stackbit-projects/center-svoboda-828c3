@@ -6,6 +6,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+title: 'Программы работы '
 ---
 ## Lorem ipsum
 
